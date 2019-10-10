@@ -1,4 +1,4 @@
-# SmartBrain
+# Smarty
 
 
 1. Clone this repo
